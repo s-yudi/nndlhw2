@@ -1,4 +1,4 @@
-# nndlhw2
+# nndlhw2 
 ResNet-18
 训练和测试步骤同时进行，主要修改参数如下：
 python train.py 
